@@ -1,0 +1,1 @@
+Replace with your sprites: add PNG files named akira.png, lila.png, etc.
